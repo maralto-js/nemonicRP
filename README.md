@@ -51,7 +51,6 @@ NemonicRP é um servidor Minecraft **profissional** focado em **roleplay realist
 <div align="center">
 
 [![Issues](https://img.shields.io/github/issues/maralto-js/nemonicRP?style=flat-square&label=Issues%20Abertas)](../../issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/maralto-js/nemonicRP?style=flat-square&label=PRs%20Ativas)](../../pulls)
 [![Commits](https://img.shields.io/github/commit-activity/m/maralto-js/nemonicRP?style=flat-square&label=Commits/Mês)](../../commits)
 
 </div>
