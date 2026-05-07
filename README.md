@@ -126,7 +126,6 @@ Somos uma **comunidade aberta**! Você pode contribuir:
 
 | Cargo | Responsável |
 |-------|------------|
-| 👑 **Owner** | @maralto-js |
 | 🧑‍💻 **Developers** | @maralto-js @GEPR1011|
 
 **[Junte-se ao nosso Discord]**
