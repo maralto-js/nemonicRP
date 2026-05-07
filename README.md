@@ -4,7 +4,6 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green?style=for-the-badge&logo=minecraft)
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-![Players](https://img.shields.io/badge/Players-Growing-blue?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 
 **Servidor Minecraft RP Profissional com Sistemas Realistas e Imersivos**
@@ -17,32 +16,26 @@
 
 ## ✨ Sobre NemonicRP
 
-NemonicRP é um servidor Minecraft **profissional** focado em **roleplay realista** e **gameplay imersivo**. Combinamos plugins avançados, sistemas de economia balanceados e uma comunidade ativa para criar uma experiência única.
-
-Nosso objetivo é oferecer um **ambiente profissional** onde jogadores possam viver histórias autênticas, construir relacionamentos significativos e explorar um mundo rico em possibilidades.
+NemonicRP é um servidor Minecraft **profissional** focado em **roleplay realista** e **gameplay imersivo**. Combinamos plugins avançados, uma comunidade ativa para criar uma experiência única.
 
 ---
 
 ## 🎯 Features Principais
 
 ### 💼 Sistemas de Trabalho
-- **Jobs Realistas** - Escolha sua profissão e ganhe dinheiro
 - **Licenças Profissionais** - Aprenda skills e avance na carreira
 - **Ranking Dinâmico** - Progresso visível do seu personagem
 
 ### 💰 Economy Balanceada
-- **Sistema de Banco** - Segurança para suas moedas
 - **Comércio Jogador-Jogador** - Livre mercado
 - **Impostos e Taxas** - Economia realista
 - **Eventos Especiais** - Oportunidades de lucro
 
 ### 🏠 Housing System
-- **Propriedades Dinâmicas** - Compre, venda e alugue
 - **Decoração Personalizada** - Customize seu espaço
 - **Segurança** - Proteção contra invasão
 
 ### 👥 Social & Factions
-- **Gangs/Facções** - Forme alianças estratégicas
 - **Chat de Proximidade** - Comunicação imersiva
 - **Eventos Comunitários** - Criar histórias juntos
 
@@ -50,24 +43,6 @@ Nosso objetivo é oferecer um **ambiente profissional** onde jogadores possam vi
 - **Alta Performance** - Lag-free gameplay
 - **Plugins Otimizados** - Sem crashes
 - **Banco de Dados Robusto** - Dados seguros
-
----
-
-## 🗺️ Roadmap
-
-<div align="center">
-
-| Versão | Status | Data | Features |
-|--------|--------|------|----------|
-| **v1.0** | ✅ Live | Agora | Jobs, Economy, Chat |
-| **v1.1** | 🔨 Em Desenvolvimento | Mai 2025 | Housing System |
-| **v1.2** | 📋 Planejado | Jun 2025 | Gangs Expansion |
-| **v1.5** | 📋 Planejado | Jul 2025 | Police System |
-| **v2.0** | 🎯 Futuro | Aug+ 2025 | Custom Items, Crafting |
-
-**[Ver Roadmap Completo →](../../projects/1)**
-
-</div>
 
 ---
 
@@ -86,21 +61,15 @@ Nosso objetivo é oferecer um **ambiente profissional** onde jogadores possam vi
 ## 🚀 Getting Started
 
 ### Como Jogar
-1. **Adicione nosso servidor** ao seu launcher Minecraft
-2. **Entre no servidor** com sua conta oficial
-3. **Escolha seu personagem** e comece a jornada
-4. **Leia as regras** no spawn do servidor
+1. **Adicione nosso servidor do discord** com sua conta oficial
+2. **Entre no servidor** ao seu launcher Minecraft
+3. **Crie sua Historia** Allowlist toda sexta
+4. **Leia as regras** no site do servidor
 
 ### Requisitos
-- Minecraft Java Edition `1.20.4+`
+- Minecraft Java Edition `1.21.10`
 - Conexão estável com internet
-- Discord (recomendado para comunicação)
-
-### Conectar ao Servidor
-```
-IP: servidor.nemonicRP.com
-Porta: 25565
-```
+- Discord 
 
 ---
 
@@ -128,15 +97,6 @@ Vamos avaliar sua sugestão e considerar para os próximos updates!
 
 ---
 
-## 📚 Documentação
-
-- **[Wiki Completa](../../wiki)** - Guias e tutoriais
-- **[FAQ](../../discussions/categories/faq)** - Perguntas frequentes
-- **[Changelog](../../releases)** - Histórico de updates
-- **[Rules & Guidelines](../../blob/main/RULES.md)** - Regras do servidor
-
----
-
 ## 🤝 Como Contribuir
 
 Somos uma **comunidade aberta**! Você pode contribuir:
@@ -145,11 +105,6 @@ Somos uma **comunidade aberta**! Você pode contribuir:
 - Bug fixes e melhorias
 - Novos sistemas e features
 - Otimizações de performance
-
-### 🎨 Builders & Designers
-- Construções e terraformação
-- Textures e resource packs
-- Ambientação
 
 ### 👮 Moderadores & QA
 - Testar novas features
@@ -172,11 +127,9 @@ Somos uma **comunidade aberta**! Você pode contribuir:
 | Cargo | Responsável |
 |-------|------------|
 | 👑 **Owner** | @maralto-js |
-| 🧑‍💻 **Developers** | [Ver Contributors](../../graphs/contributors) |
-| 🏗️ **Builders** | [Discord Server](#) |
-| 👮 **Moderators** | [Discord Server](#) |
+| 🧑‍💻 **Developers** | @maralto-js @GEPR1011|
 
-**[Junte-se ao nosso Discord →](#)**
+**[Junte-se ao nosso Discord]**
 
 </div>
 
@@ -187,7 +140,6 @@ Somos uma **comunidade aberta**! Você pode contribuir:
 - **Discord** - [Servidor Oficial](#)
 - **Forum** - [Discussões GitHub](../../discussions)
 - **Email** - gabriellopesraio@gmail.com
-- **Twitter/X** - [@NemonicRP](#)
 
 ---
 
