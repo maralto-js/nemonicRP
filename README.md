@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.20.4-green?style=for-the-badge&logo=minecraft)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green?style=for-the-badge&logo=minecraft)
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
 ![Players](https://img.shields.io/badge/Players-Growing-blue?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
