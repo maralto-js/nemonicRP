@@ -1,0 +1,48 @@
+name: ✨ Sugerir Feature
+description: Sugerir uma nova funcionalidade
+title: "[FEATURE] "
+labels: ["enhancement", "discussion"]
+
+body:
+  - type: markdown
+    attributes:
+      value: Qual feature você está propondo?
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição
+      description: Descreva a feature
+      placeholder: O que você quer adicionar?
+    validations:
+      required: true
+
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Por que?
+      description: Qual é o benefício?
+      placeholder: Por que isso seria legal?
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Como implementar?
+      description: Ideia de como fazer (opcional)
+      placeholder: Como poderia ser implementado?
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoria
+      options:
+        - 🎮 Gameplay
+        - 💰 Economy
+        - 🏠 Housing
+        - 👥 Social
+        - ⚙️ Backend
+        - 🎨 UI/UX
+    validations:
+      required: true
